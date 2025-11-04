@@ -1,5 +1,4 @@
 # vite 的配置及打包优化配置（具体参考可看 vite.config.ts 配置文件）
-
 ```text
 VITE-USE-production/
 ├── index.html                    # 入口 HTML 文件
